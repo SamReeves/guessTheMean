@@ -1,1 +1,1 @@
-# guessTheMedian
+# guessTheMean
